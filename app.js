@@ -1,5 +1,5 @@
 function saludo(nombre) {
-  return "hola soy " + nombre;
+  return "hola" + nombre;
 }
 
-console.log(saludo("Comision 06"));
+console.log(saludo("Es muy temprano"));
